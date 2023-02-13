@@ -17,6 +17,6 @@
     int main(){
         int num;
         cin>>num;
-        return countEven(num);
+        cout<<countEven(num)<<"\n";
 
     }
