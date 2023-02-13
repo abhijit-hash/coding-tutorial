@@ -12,5 +12,5 @@ int countOdds(int low, int high) {
         cin>>low;
         int high;
         cin>>high;
-        return countOdds(low,high);
+        cout<<countOdds(low,high)<<"\n";
     }
